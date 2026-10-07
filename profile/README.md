@@ -24,4 +24,4 @@ Java · Folia / Paper · PacketEvents · Velocity
 
 ## 🤝 Join Us
 
-We're looking for Java plugin developers who know Paper or Folia. Interested? Reach out to [@Xenos-core](https://github.com/Xenos-core).
+We're looking for Java plugin developers who know Paper or Folia. Interested? Reach out to [@Xenos-core](https://github.com/Xenos-core)
