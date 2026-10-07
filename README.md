@@ -1,5 +1,5 @@
 <h1 align="center">NoxelSMP</h1>
-<p align="center"><b>A Folia-powered Minecraft survival network, built in Iran.</b></p>
+<p align="center"><b>A Economy Minecraft survival network, built in Iran.</b></p>
 <p align="center">
   <a href="https://noxelsmp.net">Website</a> ·
   <code>asia.noxel.fun</code>
